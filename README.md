@@ -1,11 +1,11 @@
-# %%TITULO%% 🐍
+# Calculadora de Tiempo de Espera 🐍
 
 [![Python](https://img.shields.io/badge/Python-100%25-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Deploy](https://github.com/configurowebmax/python-calculadora-tiempo-espera/actions/workflows/pages.yml/badge.svg)](https://github.com/configurowebmax/python-calculadora-tiempo-espera/actions)
 [![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-success?logo=github&logoColor=white)](https://configurowebmax.github.io/python-calculadora-tiempo-espera/)
 [![License](https://img.shields.io/badge/Licencia-MIT-blue)](LICENSE)
 
-> %%DESCRIPCION%%
+> Menos de 5 min = excelente, 5-15 = aceptable, >15 = mejorable.
 
 ## 🚀 Probar la aplicación
 
